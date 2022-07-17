@@ -18,7 +18,7 @@
 
 ●Power Supply: 5V/1A
 
-●Dimension:  65*65*33mm
+●Dimension:  65x65x33mm
 
 ![B01-en](https://user-images.githubusercontent.com/10337553/179403131-c84ddd67-d3a1-46f9-9e67-f9ecd253e5eb.png)
 
